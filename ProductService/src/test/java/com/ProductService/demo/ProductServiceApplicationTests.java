@@ -1,10 +1,10 @@
-package com.productclient.prodclient;
+package com.ProductService.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProductClientApplicationTests {
+class ProductServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
